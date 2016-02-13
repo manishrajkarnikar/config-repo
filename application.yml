@@ -1,6 +1,7 @@
 info:
   description: Spring Cloud Samples
   url: https://github.com/spring-cloud-samples
+  jpt: manishrajkarnikar
 eureka:
   client:
     serviceUrl:
